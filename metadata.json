@@ -1,0 +1,5 @@
+{
+  "name": "CampusAR",
+  "description": "Smart AR-based campus navigation system for students.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
